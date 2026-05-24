@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+
+# 临时文件
+*.tmp
+*.swp
+*.bak
+
+# 测试输出
+test-output/
